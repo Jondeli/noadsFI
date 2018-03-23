@@ -4,6 +4,7 @@
 # Last modified: 23 Mar 2018
 #
 
+#FIN ADS
 ad.ilcdn.fi
 c1.hinta.fi
 monster.almamedia.fi
@@ -13,3 +14,9 @@ www.ridemedia.fi
 admp-tc.kaleva.fi
 ap-online.media.fi
 embed.tapkal.fi
+
+#LG TV
+lgad.cjpowercast.com.edgesuite.net
+ngfts.lge.com
+us.ad.lgsmartad.com
+us.info.lgsmartad.com
