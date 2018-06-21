@@ -20,3 +20,9 @@ lgad.cjpowercast.com.edgesuite.net
 ngfts.lge.com
 us.ad.lgsmartad.com
 us.info.lgsmartad.com
+
+#Red Shell spyware domains
+redshell.io
+api.redshell.io
+treasuredata.com
+api.treasuredata.com
