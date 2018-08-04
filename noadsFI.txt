@@ -1,7 +1,7 @@
 # NoAds domain list for DNSBL
 # Blocking finnish ads
 #
-# Last modified: 23 Mar 2018
+# Last modified: 04 Aug 2018
 #
 
 #FIN ADS
