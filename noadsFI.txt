@@ -5,29 +5,29 @@
 #
 
 #FIN ADS
-ad.ilcdn.fi
-c1.hinta.fi
-monster.almamedia.fi
-monster2.almamedia.fi
-vg.is.fi
-www.ridemedia.fi
-admp-tc.kaleva.fi
-ap-online.media.fi
-embed.tapkal.fi
-cdn.nettix.fi
-jainos.fi
-nayta.monster.fi
+0.0.0.0 ad.ilcdn.fi
+0.0.0.0 c1.hinta.fi
+0.0.0.0 monster.almamedia.fi
+0.0.0.0 monster2.almamedia.fi
+0.0.0.0 vg.is.fi
+0.0.0.0 www.ridemedia.fi
+0.0.0.0 admp-tc.kaleva.fi
+0.0.0.0 ap-online.media.fi
+0.0.0.0 embed.tapkal.fi
+0.0.0.0 cdn.nettix.fi
+0.0.0.0 jainos.fi
+0.0.0.0 nayta.monster.fi
 
 
 #LG TV
-lgad.cjpowercast.com.edgesuite.net
-ngfts.lge.com
-us.ad.lgsmartad.com
-us.info.lgsmartad.com
+0.0.0.0 lgad.cjpowercast.com.edgesuite.net
+0.0.0.0 ngfts.lge.com
+0.0.0.0 us.ad.lgsmartad.com
+0.0.0.0 us.info.lgsmartad.com
 
 #Red Shell spyware domains
-redshell.io
-api.redshell.io
-treasuredata.com
-api.treasuredata.com
+0.0.0.0 redshell.io
+0.0.0.0 api.redshell.io
+0.0.0.0 treasuredata.com
+0.0.0.0 api.treasuredata.com
 
