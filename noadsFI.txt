@@ -17,8 +17,16 @@
 0.0.0.0 cdn.nettix.fi
 0.0.0.0 jainos.fi
 0.0.0.0 nayta.monster.fi
+
+#Ulkomaiset
 0.0.0.0 adservice.google.com
 0.0.0.0 fls-na.amazon.com
+0.0.0.0 pubsub.pubnub.com
+0.0.0.0 device-metrics-us.amazon.com
+0.0.0.0 kindle-time.amazon.com
+0.0.0.0 spectrum.s3.amazonaws.com
+0.0.0.0 ntp-g7g.amazon.com
+0.0.0.0 msmetrics.ws.sonos.com
 
 
 #LG TV
