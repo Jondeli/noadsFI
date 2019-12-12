@@ -21,8 +21,7 @@
 #Ulkomaiset
 0.0.0.0 adservice.google.com
 0.0.0.0 fls-na.amazon.com
-0.0.0.0 pubsub.pubnub.com
-0.0.0.0 *.pubnub.com
+0.0.0.0 pubnub.com
 0.0.0.0 device-metrics-us.amazon.com
 0.0.0.0 kindle-time.amazon.com
 0.0.0.0 spectrum.s3.amazonaws.com
